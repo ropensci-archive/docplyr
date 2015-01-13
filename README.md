@@ -43,8 +43,3 @@ src_couchdb()
 ## databases: _replicator, _users, alm_couchdb, cachecall, hello_earth,
 ##      leothelion, leothelion2, mapuris, mran, mydb, newdbs, newnew, sofadb
 ```
-
-## 
-
-
-
