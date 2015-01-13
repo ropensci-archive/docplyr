@@ -58,3 +58,7 @@ doc_wrap <- function (..., indent = 0, width = getOption("width")){
   wrapped <- strwrap(x, indent = indent, exdent = indent + 5, width = width)
   paste0(wrapped, collapse = "\n")
 }
+
+# mongo <- mongo.create()
+# mongo.is.connected(mongo)
+# mongo.get.databases(mongo)

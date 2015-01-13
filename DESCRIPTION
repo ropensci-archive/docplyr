@@ -15,6 +15,7 @@ Imports:
     magrittr,
     solr,
     elastic,
-    sofa
+    sofa,
+    rmongodb
 Suggests:
     roxygen2
