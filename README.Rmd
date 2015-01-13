@@ -1,6 +1,15 @@
 docplyr
 =======
 
+```{r echo=FALSE}
+knitr::opts_chunk$set(
+  warning = FALSE, 
+  message = FALSE,
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
 `docplyr` is an R client for Simplified document database manipulation and analysis.
 
 ## Installation
