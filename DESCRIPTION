@@ -1,0 +1,20 @@
+Package: docplyr
+Title: What the package does (one line)
+Description: What the package does (one paragraph)
+Version: 0.0.1.99
+Date: 2015-01-12
+Authors@R: person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com")
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/sckott/docplyr
+BugReports: https://github.com/sckott/docplyr/issues
+Roxygen: list(wrap = FALSE)
+Imports:
+    httr,
+    magrittr,
+    solr,
+    elastic,
+    sofa
+Suggests:
+    roxygen2
