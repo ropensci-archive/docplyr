@@ -1,6 +1,6 @@
 Package: docplyr
-Title: What the package does (one line)
-Description: What the package does (one paragraph)
+Title: Simplified document database manipulation and analysis
+Description: Simplified document database manipulation and analysis.
 Version: 0.0.1.99
 Date: 2015-01-12
 Authors@R: person("Scott", "Chamberlain", role = c("aut", "cre"),

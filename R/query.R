@@ -1,8 +1,7 @@
 #' Get documents from a database
 #'
 #' @export
-#' @import httr elastic solr
-#' @importFrom sofa doc_get
+#' @import httr solr
 #' @param x asdfafasdf
 #' @examples \dontrun{
 #' doc()
