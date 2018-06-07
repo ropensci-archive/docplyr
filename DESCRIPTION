@@ -7,8 +7,8 @@ Authors@R: person("Scott", "Chamberlain", role = c("aut", "cre"),
     email = "myrmecocystus@gmail.com")
 License: MIT + file LICENSE
 LazyData: true
-URL: https://github.com/sckott/docplyr
-BugReports: https://github.com/sckott/docplyr/issues
+URL: https://github.com/ropensci/docplyr
+BugReports: https://github.com/ropensci/docplyr/issues
 Roxygen: list(wrap = FALSE)
 Imports:
     httr,
